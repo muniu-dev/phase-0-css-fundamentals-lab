@@ -3,3 +3,38 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1{
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#featured-property{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#featured-property p {
+  width: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Courier New', Courier, monospace;
+}
+nav{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+div{
+  background: red;
+  float: left;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
